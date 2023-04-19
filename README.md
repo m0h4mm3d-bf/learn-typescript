@@ -1,4 +1,4 @@
-# Learn TypeScript 5.0+ in Baby Steps
+# Learn TypeScript 5.0+ in Small Steps
 
 ### [Start from this presentation](https://docs.google.com/presentation/d/1-7Kb3laJjJ68mOTF9v0fHImk5vTol0CeE43Sg8hoUXQ/edit?usp=sharing)
 
